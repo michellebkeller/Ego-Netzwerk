@@ -1,0 +1,8 @@
+from,to,weight
+Ego,A,3
+Ego,B,4
+Ego,C,3
+Ego,D,3
+A,B,2
+A,C,3
+B,C,2
